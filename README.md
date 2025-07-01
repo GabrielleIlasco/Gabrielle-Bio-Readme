@@ -1,5 +1,6 @@
 # Gabrielle's Read Me 
 ## Hello!
+### she/her/hers pronouns
 - My name is Gabrielle, or Gabie, Ilasco. I am a rising high school junior at Burbank High in Burbank, California.
 - A few hobbies I have is thrifting, baking, and playing volleyball.
 - I currently have experience with Java, but I hope to expand and refine my tech skills and knowledge through KKCF instruction. I'm interested in specifically improving my software development and data analysis skills. 
